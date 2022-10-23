@@ -1,6 +1,10 @@
-D:\workspace\LogisticsWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\impl\BasicDataServiceImpl.java
-D:\workspace\LogisticsWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\impl\RoleServiceImpl.java
-D:\workspace\LogisticsWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\IUserService.java
-D:\workspace\LogisticsWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\IBasicService.java
-D:\workspace\LogisticsWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\IRoleService.java
-D:\workspace\LogisticsWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\impl\UserServiceImpl.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\IOrderService.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\impl\UserServiceImpl.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\impl\RoleServiceImpl.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\IRoleService.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\IUserService.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\ICustomerService.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\impl\CustomerServiceImpl.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\impl\BasicDataServiceImpl.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\impl\OrderServiceImpl.java
+E:\IdeaProjectWorkspace\logistics-parent\logistics-manager\logistics-manager-service\src\main\java\com\bobo\service\IBasicService.java
